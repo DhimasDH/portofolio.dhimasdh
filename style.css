@@ -59,6 +59,7 @@ body {
     height: 65%;
     width: 65%;
     border-radius: 90%;
+    transform: translateZ(0);
 }
 
 .hero .content {
@@ -202,4 +203,5 @@ footer .credit span{
     color: var(--bg);
     font-weight: 700;
 }
+
 
