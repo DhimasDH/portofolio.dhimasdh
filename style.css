@@ -201,10 +201,3 @@ footer .credit span{
     color: var(--bg);
     font-weight: 700;
 }
-/*media queries */
-
-@media (max-width: 600px) {
-    html{
-        font-size: 60%;
-    }
-}
